@@ -23,7 +23,6 @@ const socialMediaLinks = {
 	github: "https://github.com/Hardikkhanesa/",
 	linkedin: "https://www.linkedin.com/in/hardik-khanesa/",
 	gmail: "hkhanesa@gmail.com",
-	gitlab: "https://gitlab.com/ashutoshhathidara98",
 	facebook: "https://www.facebook.com/hardikkhanesa.99",
 	twitter: "https://twitter.com/hardik_khanesa",
 	instagram: "https://www.instagram.com/hardik_khanesa/"
@@ -37,7 +36,8 @@ const skills = {
       skills: [
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
         "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis"
+		"⚡ Complex quantitative modelling for Data and time series analysis",
+		"⚡ I have worked with Tableau for Data analystics visulization."
       ],
       softwareSkills: [
         {
@@ -85,8 +85,8 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building resposive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask"
+        "⚡ Developing mobile applications for Android using Java",
+        "⚡ Creating application backend in Python,Django & Flask"
       ],
       softwareSkills: [
         {
@@ -479,7 +479,7 @@ const experience = {
 					duration: "Jan 2018 - May 2020",
 					location: "Kurnool, Andhra Pradesh",
 					description:
-						"We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
+						"We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Java and React JS.",
 					color: "#0C9D58",
 				},
 				{
