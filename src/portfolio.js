@@ -229,7 +229,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866"
       },
-      profileLink: "https://www.hackerrank.com/layman_brother"
+      profileLink: "https://www.hackerrank.com/hardik_khanesa"
     },
     {
       siteName: "Codechef",
@@ -237,7 +237,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638"
       },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919"
+      profileLink: "https://www.codechef.com/users/hardik_99"
     },
     {
       siteName: "Codeforces",
@@ -245,7 +245,7 @@ const competitiveSites = {
       style: {
         color: "#1F8ACB"
       },
-      profileLink: "http://codeforces.com/profile/layman_brother"
+      profileLink: "http://codeforces.com/profile/hkhanesa"
     },
     {
       siteName: "Hackerearth",
@@ -253,7 +253,7 @@ const competitiveSites = {
       style: {
         color: "#323754"
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391"
+      profileLink: "https://www.hackerearth.com/@hkhanesa"
     },
     {
       siteName: "Kaggle",
@@ -261,7 +261,7 @@ const competitiveSites = {
       style: {
         color: "#20BEFF"
       },
-      profileLink: "https://www.kaggle.com/laymanbrother"
+      profileLink: "https://www.kaggle.com/hardikkhanesa"
     }
   ]
 }
@@ -269,17 +269,16 @@ const competitiveSites = {
 const degrees = {
   degrees : [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
+      title: "L. D. College Of Engineering,Ahmedabad",
+      subtitle: "B.E. in Computer Engineering",
+      logo_path: "ldcelogo.png",
+      alt_name: "LDCE AHMEDABAD",
       duration: "2016 - Present",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics."
-      ],
-      website_link: "http://iiitk.ac.in"
+        "⚡ Apart from this, I have done courses on Algortihms(NPTEL,Princeton), Data Science, Cloud Computing and Full Stack Development.",
+         ],
+      website_link: "http://ldce.ac.in/"
     }
   ]
 }
@@ -287,112 +286,85 @@ const degrees = {
 const certifications = {
 	certifications: [
 		{
-			title: "Machine Learning",
-			subtitle: "- Andrew Ng",
-			logo_path: "stanford_logo.png",
+			title: "JavaScript Algorithms and Data Structures",
+			subtitle: "- Freecodecamp",
+			logo_path: "freecodecamp.jpeg",
 			certificate_link:
-				"https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-			alt_name: "Stanford University",
-			color_code: "#8C151599"
-		},
-		{
-			title: "Deep Learning",
-			subtitle: "- Andrew Ng",
-			logo_path: "deeplearning_ai_logo.png",
-			certificate_link:
-				"https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-			alt_name: "deeplearning.ai",
-			color_code: "#00000099"
-		},
-		{
-			title: "ML on GCP",
-			subtitle: "- GCP Training",
-			logo_path: "google_logo.png",
-			certificate_link:
-				"https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-			alt_name: "Google",
+				"https://www.freecodecamp.org/certification/hardikkhanesa/javascript-algorithms-and-data-structures",
+			alt_name: "Freecodecamp",
 			color_code: "#0C9D5899"
 		},
 		{
-			title: "Data Science",
-			subtitle: "- Alex Aklson",
-			logo_path: "ibm_logo.png",
+			title: "Responsive Web Design",
+			subtitle: "- FreeCodeCamp",
+			logo_path: "freecodecamp.jpeg",
 			certificate_link:
-				"https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-			alt_name: "IBM",
+				"https://www.freecodecamp.org/certification/hardikkhanesa/responsive-web-design",
+			alt_name: "Freecodecamp",
 			color_code: "#1F70C199"
 		},
 		{
-			title: "Big Data",
-			subtitle: "- Kim Akers",
-			logo_path: "microsoft_logo.png",
+			title: "Programming for Everybody (Getting Started with Python)",
+			subtitle: "- University of Michigan",
+			logo_path: "michigan.png",
 			certificate_link:
-				"https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-			alt_name: "Microsoft",
+				"https://www.coursera.org/account/accomplishments/certificate/R5URLDHWDK4M",
+			alt_name: "University of Michigan",
 			color_code: "#D83B0199"
 		},
 		{
-			title: "Advanced Data Science",
-			subtitle: "- Romeo Kienzler",
-			logo_path: "ibm_logo.png",
+			title: "Python Data Structures",
+			subtitle: "- University of Michigan",
+			logo_path: "michigan.png",
 			certificate_link:
-				"https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-			alt_name: "IBM",
+				"https://www.coursera.org/account/accomplishments/certificate/73UCGM67ST83",
+			alt_name: "University of Michigan",
 			color_code: "#1F70C199"
 		},
 		{
-			title: "Advanced ML on GCP",
-			subtitle: "- GCP Training",
-			logo_path: "google_logo.png",
+			title: "Using Python to Access Web Data",
+			subtitle: "- University of Michigan",
+			logo_path: "michigan.png",
 			certificate_link:
-				"https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-			alt_name: "Google",
+				"https://www.coursera.org/account/accomplishments/certificate/WSZC35P6YCSP",
+			alt_name: "University of Michigan",
 			color_code: "#0C9D5899"
 		},
 		{
-			title: "DL on Tensorflow",
-			subtitle: "- Laurence Moroney",
-			logo_path: "deeplearning_ai_logo.png",
+			title: "Visualizing Citibike Trips with Tableau",
+			subtitle: "- Coursera",
+			logo_path: "coursera_logo.png",
 			certificate_link:
-				"https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-			alt_name: "deeplearning.ai",
+				"https://www.coursera.org/account/accomplishments/certificate/KFGFYEXH6P4Z",
+			alt_name: "Coursera Project Network",
 			color_code: "#00000099"
 		},
 		{
-			title: "Fullstack Development",
-			subtitle: "- Jogesh Muppala",
+			title: "AWS Fundamentals: Going Cloud-Native",
+			subtitle: "- Amazon Web Services",
 			logo_path: "coursera_logo.png",
 			certificate_link:
-				"https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-			alt_name: "Coursera",
+				"https://www.coursera.org/account/accomplishments/certificate/GVZGSZWWFFJU",
+			alt_name: "AWS",
 			color_code: "#2A73CC"
 		},
 		{
-			title: "Kuberenetes on GCP",
+			title: "QwikLabs on GCP",
 			subtitle: "- Qwiklabs",
 			logo_path: "gcp_logo.png",
 			certificate_link:
-				"https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
+				"https://google.qwiklabs.com/public_profiles/c19e9e52-f608-4011-82f2-6df7f4b13b4e",
 			alt_name: "GCP",
 			color_code: "#4285F499"
 		},
 		{
-			title: "Cryptography",
-			subtitle: "- Saurabh Mukhopadhyay",
+			title: "Algorithms",
+			subtitle: "- A.Ramesh,IITM",
 			logo_path: "nptel_logo.png",
 			certificate_link:
-				"https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
+				"https://drive.google.com/file/d/14avXwP9PE0VuNqNg0NUeg-g6Ehre1j_0/view?usp=sharing",
 			alt_name: "NPTEL",
 			color_code: "#FFBB0099"
-		},
-		{
-			title: "Cloud Architecture",
-			subtitle: "- Qwiklabs",
-			logo_path: "gcp_logo.png",
-			certificate_link:
-				"https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-			alt_name: "GCP",
-			color_code: "#4285F499"
 		}
 	]
 };
