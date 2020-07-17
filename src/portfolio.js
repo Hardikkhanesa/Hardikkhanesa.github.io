@@ -2,20 +2,20 @@
 
 // Website related settings
 const settings = {
-  isSplash: true,  // Change this to false if you don't want Splash screen.
+  isSplash: false,  // Change this to false if you don't want Splash screen.
 };
 
 
 //Home Page
 const greeting = {
-	title: "Ashutosh Hathidara",
-	logo_name: "AshutoshHathidara",
-	nickname: "layman_brother",
+	title: "Hardik Khanesa",
+	logo_name: "Hardikkhanesa",
+	nickname: "passionate_thinker",
 	subTitle:
 		"A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
 	resumeLink:
-		"https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
-	portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+		"https://drive.google.com/file/d/15UWCY2FJ-1XfthWfXkugqHt_wSH_1hi5/view?usp=sharing",
+	portfolio_repository: "https://github.com/Hardikkhanesa/masterPortfolio",
 };
 
 const socialMediaLinks = {
