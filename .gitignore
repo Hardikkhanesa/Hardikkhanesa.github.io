@@ -10,7 +10,7 @@
 /coverage
 
 #gitfetch
-git_data_fetcher.js 
+git_data_fetcher.js
 
 # misc
 .DS_Store
