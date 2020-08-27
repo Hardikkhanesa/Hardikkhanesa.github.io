@@ -553,7 +553,7 @@ const contactPageData = {
 
 	phoneSection: {
 		title: "Phone Number",
-		subtitle: "+91 *********",
+		subtitle: "+919979155863",
 	},
 };
 
