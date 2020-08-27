@@ -14,7 +14,7 @@ const greeting = {
 	subTitle:
 		"A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
 	resumeLink:
-		"https://drive.google.com/file/d/15UWCY2FJ-1XfthWfXkugqHt_wSH_1hi5/view?usp=sharing",
+		"https://drive.google.com/file/d/1RyPGmcogmDb75QVsohgACrIlmClY4HPf/view?usp=sharing",
 	portfolio_repository: "https://github.com/Hardikkhanesa/masterPortfolio",
 };
 
@@ -273,10 +273,10 @@ const degrees = {
       subtitle: "B.E. in Computer Engineering",
       logo_path: "ldcelogo.png",
       alt_name: "LDCE AHMEDABAD",
-      duration: "2016 - Present",
+      duration: "2016 - 2020",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Algortihms(NPTEL,Princeton), Data Science, Cloud Computing and Full Stack Development.",
+        "⚡ I have studied Computer science subjects like Datastructure, Algorithms, DBMS, Operating Systems, Computer architecture, AI etc.",
+        "⚡ Apart from this, I have done courses on Algortihms(NPTEL,Princeton), Data Science, Cloud Computing and Full Stack Development on various online platforms",
          ],
       website_link: "http://ldce.ac.in/"
     }
@@ -285,6 +285,15 @@ const degrees = {
 
 const certifications = {
 	certifications: [
+		{
+			title: "Node.js Essential Training",
+			subtitle: "- Linkedin Learning",
+			logo_path: "linkedin.png",
+			certificate_link:
+				"https://drive.google.com/file/d/1yQvgIlrUWPCoVFE5OJacdeWaNzcMcUz3/view?usp=sharing",
+			alt_name: "Linkedin Learning",
+			color_code: "#2A73CC"
+		},
 		{
 			title: "JavaScript Algorithms and Data Structures",
 			subtitle: "- Freecodecamp",
@@ -365,7 +374,16 @@ const certifications = {
 				"https://drive.google.com/file/d/14avXwP9PE0VuNqNg0NUeg-g6Ehre1j_0/view?usp=sharing",
 			alt_name: "NPTEL",
 			color_code: "#FFBB0099"
-		}
+		},	
+		{
+			title: "Learning Chrome Web Developer Tools",
+			subtitle: "- Linkedin Learning",
+			logo_path: "linkedin.png",
+			certificate_link:
+				"https://drive.google.com/file/d/18pzNbFSzBBS6Xv9AQbXFR1A7FBVxMEf_/view?usp=sharing",
+			alt_name: "Linkedin Learning",
+			color_code: "#2A73CC"
+		},
 	]
 };
 
@@ -422,15 +440,17 @@ const experience = {
 			title: "Internships",
 			experiences: [
 				{
-					title: "Research Intern",
-					company: "Fluvina Technology Pvt. Ltd.",
+					title: "Software Engineering Intern",
+					company: "Fluvina Technology Pvt. Ltd.(Mobihealth.in)",
 					company_url: "https://www.mobihealth.in/",
 					logo_path: "mobihealth-logo.png",
 					duration: "Dec 2019 - Feb 2020",
 					location: "Ahmedabad, Gujarat",
 					description:
-						"I have worked on project of predicting diabetes risk score based on previous data. There were two objectives: (1) To build a best risk score based on ML for Diabetes. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this.",
+					"I was working as a engineering intern position in Fluvina Technologies pvt Ltd(https://www.mobihealth.in/).I was Working in Android development team,Doing research with Python libraries.Machine Learning Models Building for Diabetes risk prediction score.(TensorFlow,Pandas,Random Forest,Naive bayes,etc)",
+					Reference:"https://drive.google.com/file/d/1SP1-rDSq23YRrQxwF7Yv8FzABuu-do95/view?usp=sharing",
 					color: "#ee3c26",
+					
 				},
 			],
 		},
@@ -526,7 +546,7 @@ const contactPageData = {
 	addressSection: {
 		title: "Address",
 		subtitle:
-			"Nikol,Ahmedabad,Gujarat",
+			"Ahmedabad,Gujarat",
 		avatar_image_path: "address_image.svg",
 		location_map_link: "https://goo.gl/maps/zr1YvEN57Z2gtpW56",
 	},
