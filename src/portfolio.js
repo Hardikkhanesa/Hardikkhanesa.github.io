@@ -540,7 +540,7 @@ const contactPageData = {
 		title: "Blogs",
 		subtitle:
 			"For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-		link: "https://hardikkhanesa.blogspot.com/",
+		link: "http://hardikkhanesa.me/blog/",
 		avatar_image_path: "blogs_image.svg",
 	},
 	addressSection: {
@@ -553,7 +553,7 @@ const contactPageData = {
 
 	phoneSection: {
 		title: "Phone Number",
-		subtitle: "+919979155863",
+		subtitle: "+91********",
 	},
 };
 
