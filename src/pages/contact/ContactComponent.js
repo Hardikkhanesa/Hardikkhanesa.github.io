@@ -91,12 +91,12 @@ class Contact extends Component {
 										<p className="contact-header-detail-text subTitle" style={{ color: theme.secondaryText }}>
 											{addressSection["subtitle"]}
 										</p>
-										<h1 className="address-heading-text" style={{ color: theme.text }}>
+										{/* <h1 className="address-heading-text" style={{ color: theme.text }}>
 											{phoneSection["title"]}
 										</h1>
 										<p className="contact-header-detail-text subTitle" style={{ color: theme.secondaryText }}>
 											{phoneSection["subtitle"]}
-										</p>
+										</p> */}
 										<div className="address-btn-div">
 											<Button
 												text="Visit on Google Maps"

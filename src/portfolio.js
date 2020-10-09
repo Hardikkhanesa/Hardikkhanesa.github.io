@@ -540,7 +540,7 @@ const contactPageData = {
 		title: "Blogs",
 		subtitle:
 			"For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-		link: "http://hardikkhanesa.me/blog/",
+		link: "https://hardikkhanesa.com/blog/",
 		avatar_image_path: "blogs_image.svg",
 	},
 	addressSection: {
@@ -551,10 +551,10 @@ const contactPageData = {
 		location_map_link: "https://goo.gl/maps/zr1YvEN57Z2gtpW56",
 	},
 
-	phoneSection: {
-		title: "Phone Number",
-		subtitle: "+91********",
-	},
+	// phoneSection: {
+	// 	title: "Phone Number",
+	// 	subtitle: "+91********",
+	// },
 };
 
 export {
