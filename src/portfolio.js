@@ -278,7 +278,7 @@ const degrees = {
         "⚡ I have studied Computer science subjects like Datastructure, Algorithms, DBMS, Operating Systems, Computer architecture, AI etc.",
         "⚡ Apart from this, I have done courses on Algortihms(NPTEL,Princeton), Data Science, Cloud Computing and Full Stack Development on various online platforms",
          ],
-      website_link: "http://ldce.ac.in/"
+      website_link: "https://ldce.ac.in/"
     }
   ]
 }
