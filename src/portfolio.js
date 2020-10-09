@@ -443,13 +443,30 @@ const experience = {
 					title: "Software Engineering Intern",
 					company: "Fluvina Technology Pvt. Ltd.(Mobihealth.in)",
 					company_url: "https://www.mobihealth.in/",
-					logo_path: "mobihealth-logo.png",
+					logo_path: "mobihealth.jpg",
 					duration: "Dec 2019 - Feb 2020",
 					location: "Ahmedabad, Gujarat",
 					description:
 					"I was working as a engineering intern position in Fluvina Technologies pvt Ltd(https://www.mobihealth.in/).I was Working in Android development team,Doing research with Python libraries.Machine Learning Models Building for Diabetes risk prediction score.(TensorFlow,Pandas,Random Forest,Naive bayes,etc)",
 					Reference:"https://drive.google.com/file/d/1SP1-rDSq23YRrQxwF7Yv8FzABuu-do95/view?usp=sharing",
 					color: "#ee3c26",
+					
+				},
+			],
+		},
+		{
+			title: "Full Time Job",
+			experiences: [
+				{
+					title: "Software Engineer(Full Stack Developer",
+					company: "Digiqt Technolabs",
+					company_url: "https://digiqt.com/",
+					logo_path: "digiqt.jpeg",
+					duration: "Aug 2020 - Present",
+					location: "Ahmedabad, Gujarat",
+					description:
+					"Currently i am working with technologies like Node.js,React.js,Redux,Python,Django. My Job role is kind of Full stack Developement.",
+					color: "#0879bf",
 					
 				},
 			],
