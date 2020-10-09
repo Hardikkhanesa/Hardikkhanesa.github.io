@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b29d4977379c153ae1c89fc0b736ff8",
+    "revision": "2063bd778fe73fce7f81dabd022b5612",
     "url": "/index.html"
   },
   {
-    "revision": "f64f9551af36a7a7bdf9",
-    "url": "/static/css/main.20f6f1d3.chunk.css"
+    "revision": "1e537da7226d1e85bc44",
+    "url": "/static/css/main.98124ad7.chunk.css"
   },
   {
-    "revision": "6e84b3ac190941cf18cf",
-    "url": "/static/js/2.65f2d9db.chunk.js"
+    "revision": "98f961fc81e56d6beb53",
+    "url": "/static/js/2.31a73d70.chunk.js"
   },
   {
-    "revision": "f64f9551af36a7a7bdf9",
-    "url": "/static/js/main.644939ca.chunk.js"
+    "revision": "1e537da7226d1e85bc44",
+    "url": "/static/js/main.6a9f2ab3.chunk.js"
   },
   {
     "revision": "51cba3f0a637736de016",
@@ -222,6 +222,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
+  },
+  {
+    "revision": "e9e483a31e879a5ae04993e3a9334217",
+    "url": "/static/media/mobihealth.e9e483a3.jpg"
   },
   {
     "revision": "db6c1c0dddd4c868e00a3cffa1078e49",
