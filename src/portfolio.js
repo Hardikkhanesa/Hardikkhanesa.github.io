@@ -33,28 +33,22 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡	 Full stack developer with 2 years of industrial experience in Designing, Development, Deployment and maintenance of web apps based on Django framework - Python Django , Node.js , React.js.",
-        "⚡ Microservices Architecture developement from scratch design to production .",
-        "⚡ Experience of Programming using Object Oriented Programming (OOPs concept) and software development life cycle (SDLC), architecting scalable platforms, object oriented programming, database design and agile methodologies , sprint planning .",
-        "⚡ More than 2 years of Professional Web Apps development experience using Django , Node.js inclusive of experience in React.js.",
-        "⚡ Experience in using frameworks and tools like Django , Django REST ,Express.js .",
-        "⚡ Experience working with  Docker images and containers.",
-        // "⚡ Proficient knowledge in Web services like Amazon AWS Services Ec2 , lambda.",
-        // "⚡ Worked with varieties of Relational Databases ( RDBMS ) like PostgreSQL",
-        // "⚡ Experience in working with libraries using pip command for python libraries like BeautifulSoup , numpy , pyenv , RabbitMQ, Celery , matplotlib, Pandas data-frame, uuid and used PEP8 coding convention.",
-        // "⚡ Working on a new web app built in React using ES6.",
-        // "⚡ Experience in Developing reverse proxy using NGINX to manage end user quarantine.",
-        // "⚡ Strong experience using REST Web Services for data communication between remote systems, designed, developed and testing of REST interfaces in Django,Node.",
-        // "⚡ Experience using GIT version control"
+        "⚡ I am a seasoned full-stack developer with over 3 years of industrial experience, specializing in the end-to-end process of designing, developing, deploying, and maintaining web applications using Django framework in Python, as well as Node.js and React.js.",
+        "⚡ Proficient in developing Microservices Architecture from scratch, encompassing the entire journey from design to production.",
+        "⚡ I possess expertise in programming using Design Patterns and following the software development life cycle (SDLC). My skills include architecting scalable platforms, object-oriented programming, database design, and agile methodologies, including sprint planning.",
+        "⚡ With over 3 years of professional web app development experience, I have a strong background in Django, Node.js, and React.js. I am well-versed in frameworks and tools such as Django, Django REST, Express.js, and Nest.js.        ",
+        "⚡ I have hands-on experience in working with Docker images and containers, ensuring efficient application deployment and management",
+        "⚡ Proficient in utilizing web services like Amazon AWS Services including EC2, Lambda, AWS SQS, SNS, and Event Bridges, leveraging their capabilities for seamless integration and deployment.",
+        "⚡ I have a robust background in REST web services, enabling effective data communication between remote systems. I have designed, developed, and tested REST interfaces in Django and Node.js, ensuring smooth interactions between various components."
       ],
       softwareSkills: [
-        {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26",
-          },
-        },
+        // {
+        //   skillName: "HTML5",
+        //   fontAwesomeClassname: "simple-icons:html5",
+        //   style: {
+        //     color: "#E34F26",
+        //   },
+        // },
         // {
         //   skillName: "CSS3",
         //   fontAwesomeClassname: "fa-css3",
@@ -70,13 +64,14 @@ const skills = {
         //   }
         // },
         {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
+          skillName: "TypeScript",
+          fontAwesomeClassname: "simple-icons:typescript",
           style: {
             backgroundColor: "#000000",
-            color: "#F7DF1E",
+            color: "#3178C6",
           },
         },
+       
         {
           skillName: "ReactJS",
           fontAwesomeClassname: "simple-icons:react",
@@ -92,17 +87,25 @@ const skills = {
           },
         },
         {
+          skillName: "JavaScript",
+          fontAwesomeClassname: "simple-icons:javascript",
+          style: {
+            backgroundColor: "#000000",
+            color: "#F7DF1E",
+          },
+        },
+        {
           skillName: "NodeJs",
-          fontAwesomeClassname: "simple-icons:nodejs",
+          fontAwesomeClassname: "simple-icons:nodedotjs",
           style: {
             color: "#339933",
           },
         },
         {
-          skillName: "Git",
-          fontAwesomeClassname: "simple-icons:git",
+          skillName: "Python",
+          fontAwesomeClassname: "simple-icons:python",
           style: {
-            color: "#339933",
+            color: "#3776AB",
           },
         },
 		
@@ -110,22 +113,16 @@ const skills = {
       ],
     },
     {
-      title: "Cloud Infra-Architecture",
+      title: "Cloud - Infra",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        // "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up DB,Ec2,lambda over AWS",
+        "⚡ Proficient in collaborating across various cloud platforms and leveraging their functionalities.",
+        "⚡ Skilled in hosting and maintaining websites on virtual machine instances, seamlessly integrating databases for optimal performance.",
+        "⚡ Experienced in configuring databases, EC2 instances, and Lambda functions within AWS infrastructure.",
+        "⚡ Proficient in managing queues, notifications, and schedulers, utilizing AWS services to streamline processes effectively.",
       ],
       softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
+      
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
@@ -147,13 +144,13 @@ const skills = {
         //     color: "#FFCA28"
         //   }
         // },
-        // {
-        //   skillName: "PostgreSQL",
-        //   fontAwesomeClassname: "simple-icons:postgresql",
-        //   style: {
-        //     color: "#336791"
-        //   }
-        // },
+        {
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
+          style: {
+            color: "#336791"
+          }
+        },
         // {
         //   skillName: "MongoDB",
         //   fontAwesomeClassname: "simple-icons:mongodb",
@@ -367,6 +364,33 @@ const experience = {
   header_image_path: "experience.svg",
   sections: [
     {
+      title: "Full Time",
+      experiences: [
+        {
+          title: "Software Engineer 2 ",
+          company: "Talentica Software",
+          company_url: "https://www.talentica.com/",
+          logo_path: "talenticalogo.png",
+          duration: "July 2022 - Present",
+          location: "Pune,Maharashtra",
+          description:
+            "- Experienced full-stack engineer specializing in the development of cutting-edge Fintech products. Proficient in various technology stacks, with expertise in React.js and Node.js. Skilled in designing seamless user experiences, implementing design patterns, and creating scalable solutions. Familiar with advanced technologies like Nest.js, TypeScript, and TypeORM to develop sophisticated and efficient applications.",
+          color: "#0879bf",
+        },
+        {
+          title: "Software Engineer(Full Stack Developer)",
+          company: "Digiqt Technolabs",
+          company_url: "https://digiqt.com/",
+          logo_path: "digiqt.jpeg",
+          duration: "Aug 2020 - June 2022",
+          location: "Ahmedabad, Gujarat",
+          description:
+            "- Developed InsureTech products as a full-stack engineer with exposure to multiple tech stacks.My work includes Full stack development with Python django and Node.js.Also using React js for Frontend integrations. Majorly working on Health related Insurance products , Part of digital team of client.Working in Django,Node.js,React.js,Microservices,Aws.Developing business critical frontend ,backend services along with microservices architecture. Developing microservices with Node.js and Django.",
+          color: "#0879bf",
+        },
+      ],
+    },  
+    {
       title: "Internships",
       experiences: [
         {
@@ -384,22 +408,7 @@ const experience = {
         },
       ],
     },
-    {
-      title: "Full Time",
-      experiences: [
-        {
-          title: "Software Engineer(Full Stack Developer",
-          company: "Digiqt Technolabs",
-          company_url: "https://digiqt.com/",
-          logo_path: "digiqt.jpeg",
-          duration: "Aug 2020 - Present",
-          location: "Ahmedabad, Gujarat",
-          description:
-            "- Developed InsureTech products as a full-stack engineer with exposure to multiple tech stacks.My work includes Full stack development with Python django and Node.js.Also using React js for Frontend integrations. Majorly working on Health related Insurance products , Part of digital team of client.Working in Django,Node.js,React.js,Microservices,Aws.Developing business critical frontend ,backend services along with microservices architecture. Developing microservices with Node.js and Django.",
-          color: "#0879bf",
-        },
-      ],
-    },
+   
   ],
 };
 
@@ -423,7 +432,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://hardikkhanesa.com/blog/",
+    link: "https://hardikkhanesa.github.io/blog/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
